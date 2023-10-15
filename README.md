@@ -1,1 +1,1 @@
-"Lead Scoring Case Study Project"  
+"Lead Scoring Case Study" 
